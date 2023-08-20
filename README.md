@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nathany9
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Nathan Yu
+- 👀 I’m interested in software/computer engineering
 - 🌱 I’m currently studying computer engineering at Santa Clara University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me @ nathanyu650@gmail.com
 
 <!---
 nathany9/nathany9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
